@@ -1,1 +1,0 @@
-# Waste-Segregation-Identifier
